@@ -1,5 +1,5 @@
 # Simplex-Method-Python-example
-This is my project MAO302 Course make by FPT University. I use python code to slove some Linear Programming Problem.
+This is my project Linear Programming Course make by FPT University. I use python code to slove some Linear Programming Problem.
 # Part 1: Simplex Method for Linear Program (LP)
 * Generate input matrices of a standard linear program in matrix from
 * Write a code to solve the generated LP using to phase simplex method in matrix form
